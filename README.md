@@ -11,4 +11,5 @@
 
    ### Courses  
 
-   Lazyprogrammer - Machine Learning Examples.  
+   Reinforcement Learning : lazyprogrammer/machine_learning_examples/rl
+
